@@ -20,7 +20,7 @@ Use len()method to get the number of rows and columns.
 Display the result.
 
 ## PROGRAM:
-
+```
 #program to copy contents from one file to another
 #Developed by : Rajalakshmi R
 #Reg no : 212223110037
@@ -30,6 +30,7 @@ df=pd.read_csv('nba.csv')
 print(df.head(10))
 print(df.tail())
 print("Number of row")
+```
 
 ## OUTPUT:
 ![image](https://github.com/Raji1009/Read-from-CSV/assets/89059861/248ec6d5-3a97-456b-98e0-970bba02e32d)
